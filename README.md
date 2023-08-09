@@ -1,5 +1,6 @@
 # Hi! I'm PlotChat 👋
 My name is Việt Anh, a friendly, passionate beginner developer from Vietnam.
+Im really new and hopeful to the wonderful world of coding :).
 
 ***
 ## Stats

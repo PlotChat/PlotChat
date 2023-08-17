@@ -2,7 +2,6 @@
 My name is Việt Anh, a friendly, passionate beginner developer from Vietnam.
 Im really new and hopeful to the wonderful world of coding :)
 
-***
 ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=PlotChat&theme=react&hide_border=true)](#)
 

@@ -1,3 +1,3 @@
-# Hi! I'm PlotChat 👋
+Hi! I'm PlotChat 👋
 
 
